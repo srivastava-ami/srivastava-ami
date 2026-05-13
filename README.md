@@ -78,16 +78,6 @@ Author of NXS, an open source standard I built because I got tired of seeing the
 
 ---
 
-## Pinned Repositories
-
-[![NXS](https://github-readme-stats.vercel.app/api/pin/?username=nex-ovia&repo=NXS&theme=dark&title_color=b8892a&icon_color=b8892a&border_color=30363d&bg_color=0d1117)](https://github.com/nex-ovia/NXS)
-[![nx-mem](https://github-readme-stats.vercel.app/api/pin/?username=nex-ovia&repo=nx-mem&theme=dark&title_color=b8892a&icon_color=b8892a&border_color=30363d&bg_color=0d1117)](https://github.com/nex-ovia/nx-mem)
-
-[![nx-viz](https://github-readme-stats.vercel.app/api/pin/?username=nex-ovia&repo=nx-viz&theme=dark&title_color=b8892a&icon_color=b8892a&border_color=30363d&bg_color=0d1117)](https://github.com/nex-ovia/nx-viz)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=srivastava-ami&repo=srivastava-ami.github.io&theme=dark&title_color=b8892a&icon_color=b8892a&border_color=30363d&bg_color=0d1117)](https://github.com/srivastava-ami/srivastava-ami.github.io)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srivastava--ami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivastava-ami)
