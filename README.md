@@ -28,6 +28,15 @@ Author of NXS, an open source standard I built because I got tired of seeing the
 
 ---
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivastava--ami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivastava-ami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-srivastava--ami.github.io-0f1f4a?style=for-the-badge&logoColor=white)](https://srivastava-ami.github.io/)
+[![NXS](https://img.shields.io/badge/NXS_Standard-nex--ovia-b8892a?style=for-the-badge&logoColor=white)](https://github.com/nex-ovia/NXS)
+[![Email](https://img.shields.io/badge/Email-contact-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar.srivastava42@gmail.com)
+
+---
+
 ## NXS - Nexovia Delivery Sovereignty Standard
 
 > Four rules. Every solution. No exceptions.
@@ -75,15 +84,6 @@ Author of NXS, an open source standard I built because I got tired of seeing the
 ## GitHub Stats
 
 ![Contribution Graph](https://ghchart.rshah.org/b8892a/srivastava-ami)
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivastava--ami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivastava-ami)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amitsrivastava.com-0f1f4a?style=for-the-badge&logoColor=white)](https://[srivastava-ami](https://srivastava-ami.github.io/))
-[![NXS](https://img.shields.io/badge/NXS_Standard-nex--ovia-b8892a?style=for-the-badge&logoColor=white)](https://github.com/nex-ovia/NXS)
-[![Email](https://img.shields.io/badge/Email-contact-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar.srivastava42@gmail.com)
 
 ---
 
