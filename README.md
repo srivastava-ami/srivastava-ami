@@ -81,11 +81,6 @@ Author of NXS, an open source standard I built because I got tired of seeing the
 
 ---
 
-## GitHub Stats
-
-![Contribution Graph](https://ghchart.rshah.org/b8892a/srivastava-ami)
-
----
 
 <div align="center">
 <sub>Built on NXS &nbsp;·&nbsp; Apache 2.0 &nbsp;·&nbsp; github.com/nex-ovia</sub>
