@@ -1,87 +1,97 @@
 <div align="center">
 
-<sub>CX ENGINEERING LEADER &nbsp;·&nbsp; AUTHOR OF NXS &nbsp;·&nbsp; BUILDING NEX-OVIA</sub>
+<sub>IMPLEMENTATION LEADER &nbsp;·&nbsp; TECHNICAL STRATEGIST &nbsp;·&nbsp; AUTHOR OF NXS</sub>
 
 # Amit *Srivastava*
 
-*I build the systems and teams that make enterprise software delivery actually work.*
+*I set how software gets delivered, lead the technical teams that deliver it, and stay hands-on.*
 
 ![Location](https://img.shields.io/badge/📍_Sacramento,_CA-0f1f4a?style=flat-square)
-![Open Source](https://img.shields.io/badge/Apache_2.0-b8892a?style=flat-square)
 ![Languages](https://img.shields.io/badge/Go_·_Rust_·_Python-0f1f4a?style=flat-square)
 ![AI](https://img.shields.io/badge/AI_·_Agentic_Systems-1e3470?style=flat-square)
-![NXS](https://img.shields.io/badge/NXS_v1.0-b8892a?style=flat-square)
+[![NXS](https://img.shields.io/github/v/tag/nex-ovia/NXS?label=NXS&style=flat-square&color=b8892a)](https://github.com/nex-ovia/NXS/tags)
 
 </div>
 
 ---
 
-> 🟢 &nbsp;**Currently building** - [Nex-Ovia](https://github.com/nex-ovia), a distributed, agent-agnostic delivery platform. Tools: [nx-mem](https://github.com/nex-ovia/nx-mem) · [nx-viz](https://github.com/nex-ovia/nx-viz)
+> 🟢 &nbsp;**Currently building:** [nex-ovia](https://www.nex-ovia.com), where I show in the open how I lead software implementation with AI agents, and keep what they build understood and owned.
 
 ---
 
 ## About
 
-13 years across implementation, solutions engineering, and customer success at global SaaS companies, building and mentoring technical teams across continents and driving **$1M+ in recurring ARR** through AI automation and delivery engineering.
+13 years making enterprise software work after the demo is over: Linux and mail infrastructure, mobile SDKs, and solutions architecture for top-tier gaming and consumer tech companies. Today I set implementation strategy and lead technical teams across continents, and I've driven **$1M+ in recurring ARR** through AI automation and delivery engineering.
 
-Author of NXS, an open source standard I built because I got tired of seeing the same delivery problems repeat everywhere. Most enterprise implementations fail the same way - something gets built, the person who built it moves on, and nobody left can explain, maintain, or extend what was delivered. **NXS fixes that.**
+I wrote NXS because I kept seeing the same delivery failure everywhere: something gets built, the person who built it moves on, and nobody left can explain, maintain or extend it. AI makes that faster, not rarer. **NXS is how I keep it from happening.**
+
+---
+
+## Tools
+
+Free to use, built on NXS, and used in my own delivery work. All in beta.
+
+| Tool | What it does | Release | License |
+|------|--------------|---------|---------|
+| [**genome**](https://github.com/nex-ovia/genome) | Understand any system without reading its code: one `nexovia.toml` becomes an offline HTML map | ![release](https://img.shields.io/github/v/release/nex-ovia/genome?include_prereleases&style=flat-square&label=) | BSL 1.1 (source-available) |
+| [**coderev**](https://github.com/srivastava-ami/coderev) | One command to scan your code, map it, and get a focused AI review. Rules first, AI second | ![release](https://img.shields.io/github/v/release/srivastava-ami/coderev?include_prereleases&style=flat-square&label=) | BSL 1.1 (source-available) |
+| [**pr-watch**](https://github.com/srivastava-ami/pr-watch) | macOS notifications when a pull request needs you | ![release](https://img.shields.io/github/v/release/srivastava-ami/pr-watch?include_prereleases&style=flat-square&label=) | MIT |
+
+The full, always-current list is at **[nex-ovia.com/tools](https://www.nex-ovia.com/tools/)**.
+
+---
+
+## NXS: the Nexovia Standard
+
+> A living framework for owning what gets built, by people or by AI. Four rules.
+
+| | Rule | Principle |
+|-|------|-----------|
+| **R1** | Logic separate from tools | If the vendor changes, the logic does not |
+| **R2** | Configuration externalised | Nothing hardcoded: runs identically anywhere |
+| **R3** | Every dependency visible | No hidden surface area. No surprises on handover |
+| **R4** | Runs anywhere, for anyone | No tribal knowledge required |
+
+**[Read NXS →](https://github.com/nex-ovia/NXS)** &nbsp;·&nbsp; **[Version history →](https://www.nex-ovia.com/changelog/)** &nbsp;·&nbsp; Apache-2.0
+
+---
+
+## Frameworks I built
+
+### ⚡ LISP: delivery operating model
+
+> How delivery teams deliver impact.
+
+| | Principle | What it means |
+|-|-----------|---------------|
+| **L** | Lightweight automation | Fast-to-deploy, low-code solutions with minimal overhead |
+| **I** | Insight delivery | Enabling data-driven decisions through reporting and metrics |
+| **S** | Solution reuse | Leveraging and scaling existing components and workflows |
+| **P** | Practical integration | Connecting systems efficiently using platform-first tools |
+
+### 🔥 SPARK: stretched-scope governance
+
+> Managing technical work that extends beyond standard implementation scope.
+
+| | Principle | What it means |
+|-|-----------|---------------|
+| **S** | Scalability and architecture | Designing solutions that grow efficiently |
+| **P** | Prototyping and POCs | Rapid experimentation and validation without full development ownership |
+| **A** | Advanced innovation | Exploring new solutions beyond standard implementations |
+| **R** | Reuse and collaboration | Sharing assets and fostering teamwork to amplify impact |
+| **K** | Knowledge sharing | Empowering teams through documentation and enablement |
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivastava--ami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivastava-ami)
-[![Portfolio](https://img.shields.io/badge/Portfolio-srivastava--ami.github.io-0f1f4a?style=for-the-badge&logoColor=white)](https://srivastava-ami.github.io/)
-[![NXS](https://img.shields.io/badge/NXS_Standard-nex--ovia-b8892a?style=for-the-badge&logoColor=white)](https://github.com/nex-ovia/NXS)
-[![Email](https://img.shields.io/badge/Email-contact-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar.srivastava42@gmail.com)
+[![Website](https://img.shields.io/badge/nex--ovia.com-0f1f4a?style=for-the-badge)](https://www.nex-ovia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivastava--ami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivastava-ami)
+[![X](https://img.shields.io/badge/X-@amit4srivastava-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amit4srivastava)
+[![Talks and interviews](https://img.shields.io/badge/Talks_&_interviews-connect-21262d?style=for-the-badge)](https://www.nex-ovia.com/connect/)
 
 ---
-
-## NXS - Nexovia Delivery Sovereignty Standard
-
-> Four rules. Every solution. No exceptions.
-
-| | Rule | Principle |
-|-|------|-----------|
-| **R1** | Logic separate from tools | If the vendor changes, the logic does not |
-| **R2** | Configuration externalised | Nothing hardcoded - runs identically anywhere |
-| **R3** | Every dependency visible | No hidden surface area. No surprises on handover |
-| **R4** | Runs anywhere, for anyone | No tribal knowledge required |
-
-**[Read the full standard →](https://github.com/nex-ovia/NXS/blob/main/GOVERNANCE.md)**
-
----
-
-## Frameworks I Built
-
-### ⚡ LISP - Delivery Operating Model
-
-> A practical framework for how CX Engineering teams deliver impact.
-
-| | Principle | What It Means |
-|-|-----------|---------------|
-| **L** | Lightweight Automation | Fast-to-deploy, low-code solutions with minimal overhead |
-| **I** | Insight Delivery | Enabling data-driven decisions through reporting and metrics |
-| **S** | Solution Reuse | Leveraging and scaling existing components and workflows |
-| **P** | Practical Integration | Connecting systems efficiently using platform-first tools |
-
----
-
-### 🔥 SPARK - Stretched Scope Governance
-
-> A framework for managing technical work that extends beyond standard implementation scope.
-
-| | Principle | What It Means |
-|-|-----------|---------------|
-| **S** | Scalability and Architecture | Designing solutions that grow efficiently |
-| **P** | Prototyping and POCs | Rapid experimentation and validation without full development ownership |
-| **A** | Advanced Innovation | Exploring cutting-edge solutions beyond standard implementations |
-| **R** | Reuse and Collaboration | Sharing assets and fostering teamwork to amplify impact |
-| **K** | Knowledge Sharing | Empowering teams through documentation and enablement |
-
----
-
 
 <div align="center">
-<sub>Built on NXS &nbsp;·&nbsp; Apache 2.0 &nbsp;·&nbsp; github.com/nex-ovia</sub>
+<sub>Built on NXS &nbsp;·&nbsp; nex-ovia.com</sub>
 </div>
